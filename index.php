@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Step Up With Barter - Home</title>
+  <title>Barter Setup :: Be Limitless - Home</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -734,7 +734,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <script>document.write(new Date().getFullYear());</script> <strong><span>Barter Step Up</span></strong>. All Rights Reserved
+        &copy; Copyright <script>document.write(new Date().getFullYear());</script> <strong><span>Barter Setup</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         Developed by <a href="https://wa.me/+2348074303908" target="_blank">Olayode Enoch</a>
