@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+This website was created by Olayode Enoch, a Barter Student Ambassador.
 
-Template Name: Sailor
-Template URL: https://bootstrapmade.com/sailor-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+The project was done to enlarge the ccoast of advertising for Barter application by Flutterwave.
+
+Feel free to tweak the design to suit your purpose for any ad agency.
+
+Good Luck!
