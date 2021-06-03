@@ -123,7 +123,7 @@
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">Register Now</h2>
-              <p class="animate__animated animate__fadeInUp">To enjoy these benefits, you have to Register on the Mobile Application using <strong><em>setup</em></strong> as the referral code.</p>
+              <p class="animate__animated animate__fadeInUp">To enjoy these benefits, you have to Register on the Mobile Application using <strong><em>enoch</em></strong> as the referral code.</p>
               <a href="#getstarted" class="btn-get-started animate__animated animate__fadeInUp scrollto">Get App Now</a>
             </div>
           </div>
@@ -292,7 +292,7 @@
         <div class="row content">
           <div class="col-lg-6">
             <h2>How to Get Barter</h2>
-            <h3>Getting Barter and enjoying full benefits is simple. Follow the steps, and make sure you enter the referral code <strong><em><span style="color: #007bff;">setup</span></em></strong> when registering!</h3>
+            <h3>Getting Barter and enjoying full benefits is simple. Follow the steps, and make sure you enter the referral code <strong><em><span style="color: #007bff;">enoch</span></em></strong> when registering!</h3>
             <div class="downloadrow">
               <div class="downloadColumn">
                 <a href="http://bit.ly/barter-android" target="_blank"><img src="assets/img/googleplay.png" width="100%" alt="Google PlayStore"></a>
@@ -315,7 +315,7 @@
               <li><i class="ri-check-double-line"></i> Click On <strong>"Create Account"</strong></li>
               <li><i class="ri-check-double-line"></i> Enter your <strong>Email Address</strong></li>
               <li><i class="ri-check-double-line"></i> Enter your <strong>Phone Number</strong></li>
-              <li><i class="ri-check-double-line"></i> Use <strong><em><span style="color: #007bff;">setup</span></em></strong> as your referral code</li>
+              <li><i class="ri-check-double-line"></i> Use <strong><em><span style="color: #007bff;">enoch</span></em></strong> as your referral code</li>
               <li><i class="ri-check-double-line"></i> Input the One Time Password (OTP) received via your phone number/WhatsApp</li>
               <li><i class="ri-check-double-line"></i> Enter your <strong>Firstname</strong> and <strong>Lastname <em>(Surname)</em></strong></li>
               <li><i class="ri-check-double-line"></i> Enter your ATM card details. <em>You can skip this step</em></li>
@@ -350,7 +350,7 @@
             <div class="icon-box">
               <i class="icofont-chart-bar-graph"></i>
               <h4><a>Refer More People Here</a></h4>
-              <p>You can make up to <strong>#10,000</strong> when you refer people to use Barter and join with the referral code <strong><em><span style="color: #dc3545;">setup</span></em>. <a href="https://forms.gle/ahszz86n2ZDNadpJ7" target="_blank">APPLY NOW!</a></strong></p>
+              <p>You can make up to <strong>#10,000</strong> when you refer people to use Barter and join with the referral code <strong><em><span style="color: #dc3545;">enoch</span></em>. <a href="https://forms.gle/ahszz86n2ZDNadpJ7" target="_blank">APPLY NOW!</a></strong></p>
             </div>
           </div>
 
